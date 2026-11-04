@@ -14,11 +14,11 @@
 
 I'm a Senior Principal Engineer at [Cision](https://www.cision.com/) in Portland, Oregon, working on AI strategy and architecture at PR Newswire. When our head of AI left, I inherited the role, then [gave up centralized control](https://www.linkedin.com/pulse/i-tempted-ring-power-burned-instead-mark-walls-9b7cc) and trusted our teams to build.
 
-I also started and maintain [StarlingHQ](https://github.com/starlinghq), which runs AI inside .NET apps with no Python sidecar and no cloud API.
+On my own time, I started and maintain [StarlingHQ](https://github.com/starlinghq), which runs AI inside .NET apps with no Python sidecar and no cloud API. These are personal side projects, not affiliated with Cision.
 
-A bad model port doesn't crash; it quietly gives worse answers. So my work is about proof as much as code: a Starling model only counts as Stable once it's been measured against the original Python, and the evidence is public. I build with AI coding agents, and those gates are how I keep the output honest.
+A bad model port doesn't crash; it quietly gives worse answers. So these projects are about proof as much as code: a Starling model only counts as Stable once it's been measured against the original Python, and the evidence is public. I build with AI coding agents, and those gates are how I keep the output honest.
 
-## My work
+## Side projects
 
 | Project | What it is | Status |
 | --- | --- | --- |

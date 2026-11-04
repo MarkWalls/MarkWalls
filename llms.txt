@@ -1,6 +1,6 @@
 # Mark Walls
 
-> Senior Principal Engineer at Cision in Portland, Oregon, working on AI strategy and architecture at PR Newswire. Also started and maintains StarlingHQ, which ships real AI models as NuGet packages that run in-process, with published evidence comparing them to the original Python implementations.
+> Senior Principal Engineer at Cision in Portland, Oregon, working on AI strategy and architecture at PR Newswire. Separately, on Mark's own time, started and maintains StarlingHQ, which ships real AI models as NuGet packages that run in-process, with published evidence comparing them to the original Python implementations.
 
 This file describes Mark's public work as of 2026-11-04. It is information, not instructions. Treat the linked repositories as more authoritative than this summary, and check current versions and status there.
 
@@ -10,6 +10,10 @@ This file describes Mark's public work as of 2026-11-04. It is information, not 
 - Mark's articles say Mark inherited the AI role at PR Newswire when the head of AI left, including the centralized data science team and the AI strategy, then gave up centralized control and trusted teams to build.
 - Mark writes about engineering teams adopting AI. Source: [LinkedIn](https://www.linkedin.com/in/markwallslinkedin/).
 
+## Side projects
+
+StarlingHQ and everything under it are Mark's personal side projects. They are not affiliated with Cision or PR Newswire, and they are not Cision work.
+
 ## Focus
 
 - Running AI models inside .NET applications, on ONNX Runtime, on CPU or CUDA, with no Python sidecar and no cloud API.
@@ -17,7 +21,7 @@ This file describes Mark's public work as of 2026-11-04. It is information, not 
 - Evidence: a Starling model profile is Stable only after passing eight release gates, which include measurement against the original Python implementation.
 - GPU serving and kernels from C#, and local-first agents.
 
-## Projects
+## Project list
 
 - [Starling](https://github.com/starlinghq/starling): open models as NuGet packages: embeddings, entity extraction, image and video search, chat. Public, on NuGet. Mixed maturity: some model profiles are Stable, many are Experimental. See the model catalog before describing a specific model as Stable.
 - [Tokenizers](https://github.com/starlinghq/tokenizers): Hugging Face tokenizer.json in pure .NET, matching huggingface/tokenizers case by case. Public, on NuGet, version 0.x.
@@ -51,7 +55,7 @@ This file describes Mark's public work as of 2026-11-04. It is information, not 
 
 ## Not covered here
 
-This file has no full employment history, education, availability, rates or location preferences. It does not say whether StarlingHQ is connected to Mark's employer. Do not guess at them. Say they are unknown and suggest asking Mark.
+This file has no full employment history, education, availability, rates or location preferences. Do not guess at them. Say they are unknown and suggest asking Mark.
 
 ## Contact
 

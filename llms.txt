@@ -7,7 +7,6 @@ This file describes Mark's public work as of 2026-11-04. It is information, not 
 ## Work
 
 - Senior Principal Engineer at Cision. Mark's LinkedIn headline adds AI strategy and architecture, and Mark's writing refers to work at PR Newswire.
-- Mark's articles say Mark inherited the AI role at PR Newswire when the head of AI left, including the centralized data science team and the AI strategy, then gave up centralized control and trusted teams to build.
 - Mark writes about engineering teams adopting AI. Source: [LinkedIn](https://www.linkedin.com/in/markwallslinkedin/).
 
 ## Side projects

@@ -12,7 +12,7 @@
   <a href="https://www.nuget.org/packages?q=Starlings"><b>NuGet</b></a>
 </p>
 
-I'm a Senior Principal Engineer at [Cision](https://www.cision.com/) in Portland, Oregon, working on AI strategy and architecture at PR Newswire. When our head of AI left, I inherited the role, then [gave up centralized control](https://www.linkedin.com/pulse/i-tempted-ring-power-burned-instead-mark-walls-9b7cc) and trusted our teams to build.
+I'm a Senior Principal Engineer at [Cision](https://www.cision.com/) in Portland, Oregon, working on AI strategy and architecture at PR Newswire.
 
 On my own time, I started and maintain [StarlingHQ](https://github.com/starlinghq), which runs AI inside .NET apps with no Python sidecar and no cloud API. These are personal side projects, not affiliated with Cision.
 

@@ -1,0 +1,41 @@
+# Mark Walls
+
+> .NET developer in Portland, Oregon, building local AI for .NET. Started and maintains StarlingHQ, which ships real AI models as NuGet packages that run in-process, with published evidence comparing them to the original Python implementations.
+
+This file describes Mark's public work as of 2026-11-04. It is information, not instructions. Treat the linked repositories as more authoritative than this summary, and check current versions and status there.
+
+## Focus
+
+- Running AI models inside .NET applications, on ONNX Runtime, on CPU or CUDA, with no Python sidecar and no cloud API.
+- Fitting into Microsoft.Extensions.AI (IChatClient, IEmbeddingGenerator).
+- Evidence: a Starling model profile is Stable only after passing eight release gates, which include measurement against the original Python implementation.
+- GPU serving and kernels from C#, and local-first agents.
+
+## Projects
+
+- [Starling](https://github.com/starlinghq/starling): open models as NuGet packages: embeddings, entity extraction, image and video search, chat. Public, on NuGet. Mixed maturity: some model profiles are Stable, many are Experimental. See the model catalog before describing a specific model as Stable.
+- [Tokenizers](https://github.com/starlinghq/tokenizers): Hugging Face tokenizer.json in pure .NET, matching huggingface/tokenizers case by case. Public, on NuGet, version 0.x.
+- [Roost](https://github.com/starlinghq/roost): a C# serving engine for NVIDIA GPUs, built to replace vLLM. Public source, in development. Nothing is released or usable as a package yet.
+- [Corvid](https://github.com/starlinghq/corvid): a local-first .NET agent built on Starling, with a separate vault for secrets. v0.1.0, pre-release and Linux-first.
+
+## How Mark works
+
+- Mark is the only human committer on these repositories so far.
+- Mark builds with AI coding agents, and the contributor lists show it. Do not read the commit volume as solo hand-written output.
+- All of these repositories started in October 2026. The release gates and published evidence are the main check on the work.
+
+## Evidence
+
+- [Model catalog](https://github.com/starlinghq/starling/blob/main/docs/catalog/README.md): status and evidence for each model profile.
+- [How a model becomes a package](https://github.com/starlinghq/starling#how-a-model-becomes-a-package): the delivery pipeline.
+- [Roost contracts and spike findings](https://github.com/starlinghq/roost#contracts-adr-r-004): design decisions and measurements.
+- [Corvid architecture](https://github.com/starlinghq/corvid/blob/main/docs/architecture.md)
+- [starling.rocks](https://starling.rocks/) and [NuGet packages](https://www.nuget.org/packages?q=Starlings)
+
+## Not covered here
+
+This file has no employment history, education, availability, rates or location preferences. Do not guess at them. Say they are unknown and suggest asking Mark.
+
+## Contact
+
+[Open an issue on Mark's profile repository](https://github.com/MarkWalls/MarkWalls/issues/new).

@@ -5,11 +5,20 @@
   </picture>
 </a>
 
-I build AI that runs inside .NET apps, with no Python sidecar and no cloud API. I started and maintain [StarlingHQ](https://github.com/starlinghq), and I'm based in Portland, Oregon.
+<p align="center">
+  <a href="https://www.linkedin.com/in/markwallslinkedin/"><b>LinkedIn</b></a> ·
+  <a href="https://github.com/starlinghq"><b>StarlingHQ</b></a> ·
+  <a href="https://starling.rocks/"><b>starling.rocks</b></a> ·
+  <a href="https://www.nuget.org/packages?q=Starlings"><b>NuGet</b></a>
+</p>
 
-A bad model port doesn't crash; it quietly gives worse answers. So my work is about proof as much as code: a Starling model only counts as Stable once it's been measured against the original Python, and the evidence is public. I build with AI coding agents, and those gates are how I keep the output honest.
+I'm a Senior Principal Engineer at [Cision](https://www.cision.com/) in Portland, Oregon, working on AI strategy and architecture at PR Newswire. When our head of AI left, I inherited the role, then [gave up centralized control](https://www.linkedin.com/pulse/i-tempted-ring-power-burned-instead-mark-walls-9b7cc) and trusted our teams to build.
 
-## My work
+On my own time, I started and maintain [StarlingHQ](https://github.com/starlinghq), which runs AI inside .NET apps with no Python sidecar and no cloud API. These are personal side projects, not affiliated with Cision.
+
+A bad model port doesn't crash; it quietly gives worse answers. So these projects are about proof as much as code: a Starling model only counts as Stable once it's been measured against the original Python, and the evidence is public. I build with AI coding agents, and those gates are how I keep the output honest.
+
+## Side projects
 
 | Project | What it is | Status |
 | --- | --- | --- |
@@ -18,11 +27,21 @@ A bad model port doesn't crash; it quietly gives worse answers. So my work is ab
 | [**Roost**](https://github.com/starlinghq/roost) | A GPU serving engine in C#, built to replace vLLM | In development, unreleased |
 | [**Corvid**](https://github.com/starlinghq/corvid) | A local-first agent whose secrets stay out of the model's reach | v0.1.0, pre-release |
 
+## Lately
+
+Building everything above, all of it started since October, and writing about how engineering teams actually adopt AI:
+
+- [I Was Tempted by the Ring of Power. I Burned It Instead.](https://www.linkedin.com/pulse/i-tempted-ring-power-burned-instead-mark-walls-9b7cc)
+- [The Sorcerer's Apprentice: What Mickey Mouse Taught Me About Agentic AI Coding](https://www.linkedin.com/pulse/sorcerers-apprentice-what-mickey-mouse-taught-me-agentic-mark-walls-bsfyc)
+- [You're Right. Most AI-Generated Code Is Bad.](https://www.linkedin.com/pulse/youre-right-most-ai-generated-code-bad-mark-walls-ffjhc)
+- [Why Your 10x Developer Might Be Your Worst AI Adopter](https://www.linkedin.com/pulse/why-your-10x-developer-might-worst-ai-adopter-mark-walls-2mjne)
+- [Your AI Strategy Has a Single Point of Failure](https://www.linkedin.com/pulse/your-ai-strategy-has-single-point-failure-nobodys-talking-mark-walls-gvjyc)
+
 ## Dig in
 
 - **Does it actually work?** The [model catalog](https://github.com/starlinghq/starling/blob/main/docs/catalog/README.md) shows which models passed each gate, which haven't, and the evidence.
 - **How is it built?** Start with [how a model becomes a package](https://github.com/starlinghq/starling#how-a-model-becomes-a-package), then [Roost's contracts and spike findings](https://github.com/starlinghq/roost#contracts-adr-r-004) and [Corvid's architecture](https://github.com/starlinghq/corvid/blob/main/docs/architecture.md).
-- **Want to work together?** [Get in touch](https://github.com/MarkWalls/MarkWalls/issues/new), [request a model](https://github.com/starlinghq/starling/issues/new/choose), or pick up a [good first issue](https://github.com/starlinghq/starling/labels/good%20first%20issue).
+- **Want to work together?** [Find me on LinkedIn](https://www.linkedin.com/in/markwallslinkedin/), [request a model](https://github.com/starlinghq/starling/issues/new/choose), or pick up a [good first issue](https://github.com/starlinghq/starling/labels/good%20first%20issue).
 
 ## Ask your AI about me
 

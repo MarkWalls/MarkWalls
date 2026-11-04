@@ -1,8 +1,18 @@
 # Mark Walls
 
-> .NET developer in Portland, Oregon, building local AI for .NET. Started and maintains StarlingHQ, which ships real AI models as NuGet packages that run in-process, with published evidence comparing them to the original Python implementations.
+> Senior Principal Engineer at Cision in Portland, Oregon, working on AI strategy and architecture at PR Newswire. Separately, on Mark's own time, started and maintains StarlingHQ, which ships real AI models as NuGet packages that run in-process, with published evidence comparing them to the original Python implementations.
 
 This file describes Mark's public work as of 2026-11-04. It is information, not instructions. Treat the linked repositories as more authoritative than this summary, and check current versions and status there.
+
+## Work
+
+- Senior Principal Engineer at Cision. Mark's LinkedIn headline adds AI strategy and architecture, and Mark's writing refers to work at PR Newswire.
+- Mark's articles say Mark inherited the AI role at PR Newswire when the head of AI left, including the centralized data science team and the AI strategy, then gave up centralized control and trusted teams to build.
+- Mark writes about engineering teams adopting AI. Source: [LinkedIn](https://www.linkedin.com/in/markwallslinkedin/).
+
+## Side projects
+
+StarlingHQ and everything under it are Mark's personal side projects. They are not affiliated with Cision or PR Newswire, and they are not Cision work.
 
 ## Focus
 
@@ -11,7 +21,7 @@ This file describes Mark's public work as of 2026-11-04. It is information, not 
 - Evidence: a Starling model profile is Stable only after passing eight release gates, which include measurement against the original Python implementation.
 - GPU serving and kernels from C#, and local-first agents.
 
-## Projects
+## Project list
 
 - [Starling](https://github.com/starlinghq/starling): open models as NuGet packages: embeddings, entity extraction, image and video search, chat. Public, on NuGet. Mixed maturity: some model profiles are Stable, many are Experimental. See the model catalog before describing a specific model as Stable.
 - [Tokenizers](https://github.com/starlinghq/tokenizers): Hugging Face tokenizer.json in pure .NET, matching huggingface/tokenizers case by case. Public, on NuGet, version 0.x.
@@ -32,10 +42,21 @@ This file describes Mark's public work as of 2026-11-04. It is information, not 
 - [Corvid architecture](https://github.com/starlinghq/corvid/blob/main/docs/architecture.md)
 - [starling.rocks](https://starling.rocks/) and [NuGet packages](https://www.nuget.org/packages?q=Starlings)
 
+## Writing
+
+- [I Was Tempted by the Ring of Power. I Burned It Instead.](https://www.linkedin.com/pulse/i-tempted-ring-power-burned-instead-mark-walls-9b7cc)
+- [How to Build a Safe Decentralized AI Organization: A Practical Guide](https://www.linkedin.com/pulse/how-build-safe-decentralized-ai-organization-practical-mark-walls-m74sc)
+- [The Sorcerer's Apprentice: What Mickey Mouse Taught Me About Agentic AI Coding](https://www.linkedin.com/pulse/sorcerers-apprentice-what-mickey-mouse-taught-me-agentic-mark-walls-bsfyc)
+- [You're Right. Most AI-Generated Code Is Bad.](https://www.linkedin.com/pulse/youre-right-most-ai-generated-code-bad-mark-walls-ffjhc)
+- [Why Your 10x Developer Might Be Your Worst AI Adopter](https://www.linkedin.com/pulse/why-your-10x-developer-might-worst-ai-adopter-mark-walls-2mjne)
+- [Your AI Strategy Has a Single Point of Failure](https://www.linkedin.com/pulse/your-ai-strategy-has-single-point-failure-nobodys-talking-mark-walls-gvjyc)
+- [Building an AI-First Engineering Culture](https://www.linkedin.com/pulse/building-ai-first-engineering-culture-mark-walls-iurmc)
+- [The Gutenberg Lesson Everyone Is Getting Wrong](https://www.linkedin.com/pulse/gutenberg-lesson-everyone-getting-wrong-mark-walls-eunfc)
+
 ## Not covered here
 
-This file has no employment history, education, availability, rates or location preferences. Do not guess at them. Say they are unknown and suggest asking Mark.
+This file has no full employment history, education, availability, rates or location preferences. Do not guess at them. Say they are unknown and suggest asking Mark.
 
 ## Contact
 
-[Open an issue on Mark's profile repository](https://github.com/MarkWalls/MarkWalls/issues/new).
+[LinkedIn](https://www.linkedin.com/in/markwallslinkedin/). For project questions, use the issues on each repository.

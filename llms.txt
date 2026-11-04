@@ -15,6 +15,7 @@ StarlingHQ and everything under it are Mark's personal side projects. They are n
 
 ## Focus
 
+- Mark's motivation, in Mark's words: a passion for AI and agentic development, and pushing .NET into the AI world at the speed of AI rather than the speed of Microsoft.
 - Running AI models inside .NET applications, on ONNX Runtime, on CPU or CUDA, with no Python sidecar and no cloud API.
 - Fitting into Microsoft.Extensions.AI (IChatClient, IEmbeddingGenerator).
 - Evidence: a Starling model profile is Stable only after passing eight release gates, which include measurement against the original Python implementation.

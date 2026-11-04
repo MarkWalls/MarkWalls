@@ -16,7 +16,7 @@ I'm a Senior Principal Engineer at [Cision](https://www.cision.com/) in Portland
 
 On my own time, I started and maintain [StarlingHQ](https://github.com/starlinghq), which runs AI inside .NET apps with no Python sidecar and no cloud API. These are personal side projects, not affiliated with Cision.
 
-A bad model port doesn't crash; it quietly gives worse answers. So these projects are about proof as much as code: a Starling model only counts as Stable once it's been measured against the original Python, and the evidence is public. I build with AI coding agents, and those gates are how I keep the output honest.
+I'm passionate about AI and agentic development, and about pushing .NET into the AI world at the speed of AI rather than the speed of Microsoft. These projects are built that way, with AI coding agents working alongside me.
 
 ## Side projects
 
